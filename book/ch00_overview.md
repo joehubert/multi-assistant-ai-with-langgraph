@@ -1,19 +1,19 @@
 # Building Multi-Agent Research Assistants with LangGraph
 
-## Preface
+## [Preface](ch00_preface.md)
 - About this book
 - Who this book is for
 - What you'll learn
 - Prerequisites
 
-## Chapter 1: Introduction to LangGraph and Multi-Agent Systems
+## [Chapter 1: Introduction to LangGraph and Multi-Agent Systems](ch01.md)
 - What is LangGraph?
 - Understanding directed state flow graphs
 - Multi-agent systems vs. single-agent workflows
 - The research assistant use case
 - Overview of the research assistant architecture
 
-## Chapter 2: System Architecture and Components
+## [Chapter 2: System Architecture and Components](ch02.md)
 - High-level architecture overview
 - Understanding StateGraph and MessagesState
 - Key components:
@@ -23,7 +23,7 @@
   - State handling
 - The role of Send() API for parallel processing
 
-## Chapter 3: Schema Design and Data Modeling
+## [Chapter 3: Schema Design and Data Modeling](ch03.md)
 - Core data modeling with Pydantic
 - Building a state management system
 - Understanding the type hierarchy:
@@ -33,7 +33,7 @@
 - Designing composable states
 - Annotated fields and operators
 
-## Chapter 4: Creating AI Analyst Personas
+## [Chapter 4: Creating AI Analyst Personas](ch04.md)
 - Defining the Analyst model
 - Implementing the Perspectives model
 - Using structured output with LLMs
