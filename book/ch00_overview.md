@@ -57,7 +57,7 @@
 - Balancing diversity and coherence
 - Performance considerations
 - Summary
-- 
+
 ## [Chapter 5: Building the Interview System](ch05.md)
  The interview state machine
 - Question generation techniques
