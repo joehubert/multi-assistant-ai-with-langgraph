@@ -1,3 +1,5 @@
+[TOC](ch00_overview.md)
+
 # Conclusion: The Future of Multi-Agent Research Assistants
 
 Throughout this book, we've explored the design, implementation, and deployment of a multi-agent research assistant built with LangGraph. This system represents a significant advancement in AI-assisted research, bringing together multiple specialized agents to create a comprehensive and nuanced research process.
